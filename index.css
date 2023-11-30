@@ -1,0 +1,150 @@
+.pavlyuchenko-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.pavlyuchenko-pavlyuchenko {
+  width: 100%;
+  height: 842px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pavlyuchenko-text {
+  top: 140px;
+  left: 407px;
+  color: rgba(115, 128, 141, 1);
+  width: 140px;
+  height: auto;
+  position: absolute;
+  font-size: 11px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Arial;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pavlyuchenko-text001 {
+  font-weight: 400;
+}
+.pavlyuchenko-text011 {
+  font-weight: 700;
+}
+.pavlyuchenko-text031 {
+  font-weight: 400;
+}
+.pavlyuchenko-text035 {
+  font-weight: 700;
+}
+.pavlyuchenko-text039 {
+  font-weight: 400;
+}
+.pavlyuchenko-text045 {
+  font-weight: 700;
+}
+.pavlyuchenko-text049 {
+  font-weight: 400;
+}
+.pavlyuchenko-text055 {
+  font-weight: 700;
+}
+.pavlyuchenko-text059 {
+  font-weight: 400;
+}
+.pavlyuchenko-text067 {
+  font-weight: 700;
+}
+.pavlyuchenko-text079 {
+  top: 140px;
+  left: 48px;
+  color: rgba(115, 128, 141, 1);
+  width: 335px;
+  height: auto;
+  position: absolute;
+  font-size: 7px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Arial;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pavlyuchenko-text080 {
+  color: rgba(115, 128, 141, 1);
+  font-weight: 400;
+}
+.pavlyuchenko-text084 {
+  font-weight: 700;
+}
+.pavlyuchenko-text088 {
+  color: rgba(16, 18, 20, 1);
+}
+.pavlyuchenko-text092 {
+  color: rgba(115, 128, 141, 1);
+}
+.pavlyuchenko-text096 {
+  font-weight: 400;
+}
+.pavlyuchenko-text100 {
+  font-weight: 700;
+}
+.pavlyuchenko-text106 {
+  color: rgba(16, 18, 20, 1);
+}
+.pavlyuchenko-text110 {
+  color: rgba(115, 128, 141, 1);
+}
+.pavlyuchenko-text114 {
+  font-weight: 400;
+}
+.pavlyuchenko-text118 {
+  font-weight: 700;
+}
+.pavlyuchenko-text124 {
+  color: rgba(16, 18, 20, 1);
+}
+.pavlyuchenko-text128 {
+  color: rgba(115, 128, 141, 1);
+}
+.pavlyuchenko-text138 {
+  top: 49px;
+  left: 48px;
+  color: rgba(16, 18, 20, 1);
+  width: 229px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Arial;
+  font-weight: 700;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pavlyuchenko-text139 {
+  font-weight: 700;
+}
+.pavlyuchenko-avatar {
+  top: 36px;
+  left: 407px;
+  width: 72px;
+  height: 72px;
+  position: absolute;
+}
+.pavlyuchenko-topline {
+  top: 0px;
+  left: 0px;
+  width: 595px;
+  height: 4px;
+  position: absolute;
+}
